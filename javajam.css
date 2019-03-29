@@ -1,0 +1,42 @@
+/*-- Project Name: JavaJam Coffee House -->
+<!-- Author: Joshua Taylor -->
+<!-- Date Last Modified: 3.27.19 -->*/
+
+body
+  {
+    background-color: #FCEBB6;
+    color: #221811;
+    font: Arial;
+  }
+
+header
+  {
+    background-color: #D2B48C;
+    text-align: center;
+  }
+
+h1
+  {
+    line-height: 200%;
+  }
+
+nav
+  {
+    text-align: center;
+    font-weight: bold;
+  }
+
+footer
+  {
+    background-color: #D2B48C;
+    font-size: .60em;
+    font-style: italic;
+    text-align: center;
+  }
+
+.wrapper
+  {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+  }
